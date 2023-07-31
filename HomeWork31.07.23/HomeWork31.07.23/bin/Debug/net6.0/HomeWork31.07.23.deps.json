@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HomeWork31.07.23/1.0.0": {
+        "runtime": {
+          "HomeWork31.07.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork31.07.23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
